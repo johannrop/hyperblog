@@ -1,0 +1,10 @@
+.titulo{
+    background-color: red;
+    color: white;
+    box-shadow: 0 0 10px black;
+}
+
+.parrafo{
+    color: red;
+    font-size: 22px;
+}
