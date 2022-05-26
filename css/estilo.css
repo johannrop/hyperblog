@@ -8,3 +8,11 @@
     color: red;
     font-size: 22px;
 }
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto;
+}
